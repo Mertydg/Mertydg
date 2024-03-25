@@ -23,8 +23,7 @@ As technology continues to evolve, I understand the importance of staying up-to-
 
 If you would like to collaborate on a project, have any questions, or just want to say hi, feel free to reach out to me. You can contact me via discord at `Mert61#5577`.
 
-Thank you for visiting my GitHub profile. Have a great day!
-You can reach out to me through LinkedIn by visiting my profile at <a href="https://www.linkedin.com/in/candan-tombas-488766270/">LinkedIn Profile</a>. Feel free to connect with me and send a message, and I will get back to you as soon as possible.
+
 
 ## Knowledge
 
